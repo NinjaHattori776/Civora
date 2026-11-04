@@ -1,0 +1,5 @@
+# Keep binary design files from being diffed/merged as text
+*.vpp binary
+*.docx binary
+*.pdf binary
+*.png binary

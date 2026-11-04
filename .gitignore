@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+._*
+
+# Visual Paradigm auto-backups and lock files (the latest models/Civora.vpp is tracked)
+*.vpp.bak*
+*.vbak
+.*.vpp.lck
+*.lck
